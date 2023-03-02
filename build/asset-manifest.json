@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eb84941.css",
+    "main.js": "/static/js/main.b3b6eabc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home_img.png": "/static/media/home_img.43a6a46d1d0fc0e5b918.png",
+    "static/media/people.png": "/static/media/people.57ede8b23e5d7ce9f362.png",
+    "static/media/p7.png": "/static/media/p7.dbdd3967f92dc86b7398.png",
+    "static/media/p3.png": "/static/media/p3.3e135dbcc58666cda6de.png",
+    "static/media/p9.png": "/static/media/p9.136f71c3defe7ee064a3.png",
+    "static/media/p8.png": "/static/media/p8.2a88abcdc3bb113897fe.png",
+    "static/media/p5.png": "/static/media/p5.dede4c4cdd490f7dc255.png",
+    "static/media/p4.png": "/static/media/p4.ddeca45cd5ca47a370e3.png",
+    "static/media/p1.png": "/static/media/p1.034fe548f52473dbb5ba.png",
+    "static/media/p2.png": "/static/media/p2.26904584a125514057eb.png",
+    "static/media/b1.png": "/static/media/b1.9020d89a96a4f3db3d4a.png",
+    "static/media/b2.png": "/static/media/b2.6374407802cec1b9af6e.png",
+    "static/media/b3.png": "/static/media/b3.4698e171737f22397b68.png",
+    "static/media/3.png": "/static/media/3.e4994cd22155b46020ad.png",
+    "static/media/p6.png": "/static/media/p6.2802a3a1f8e7734bc600.png",
+    "static/media/b4.png": "/static/media/b4.735b0da7a40fbed43d73.png",
+    "static/media/2.png": "/static/media/2.17cdf3d7b6086dbe0b42.png",
+    "static/media/1.png": "/static/media/1.73d8acb8b0e3325e3e89.png",
+    "static/media/5.png": "/static/media/5.fb6eeeef65cc49bcee67.png",
+    "static/media/8.png": "/static/media/8.2f949ad9d48dee200f60.png",
+    "static/media/6.png": "/static/media/6.edf66e3bab24e1ba3260.png",
+    "static/media/4.png": "/static/media/4.da9f4ff0799bfdc07ff5.png",
+    "static/media/7.png": "/static/media/7.0f26902cbfd7a7065866.png",
+    "static/media/9.png": "/static/media/9.0c84b039e4cc73e29333.png",
+    "static/media/10.png": "/static/media/10.2ce7b4c2f1805785fcaa.png",
+    "index.html": "/index.html",
+    "main.2eb84941.css.map": "/static/css/main.2eb84941.css.map",
+    "main.b3b6eabc.js.map": "/static/js/main.b3b6eabc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb84941.css",
+    "static/js/main.b3b6eabc.js"
+  ]
+}
