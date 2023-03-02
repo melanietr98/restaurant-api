@@ -1,4 +1,4 @@
-## You can acess the website here  <a href="https://melskitchenreactapi.netlify.app/">
+## [click here to see the live version of this site](https://melskitchenreactapi.netlify.app/)
 
 # Getting Started with Create React App
 
